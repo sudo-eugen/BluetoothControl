@@ -28,7 +28,7 @@ import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "robotellog";
+    private static final String TAG = "log";
 
 
     Handler handler;
